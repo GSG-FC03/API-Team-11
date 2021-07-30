@@ -5,13 +5,13 @@ By this website you can search cocktails (ex. Lemon, margarita) and then the coc
 You can click on the photo and show the instruction.
 
 ##  Technology we used:
-* HTML ? to build the structure of the pages
-* CSS ? to style the application
-* JS|DOM Manipulations ? To create interaction between the page and the user
-* JS| Fetch API ? to get the data from API
+* HTML: to build the structure of the pages
+* CSS: to style the application
+* JS|DOM Manipulations: To create interaction between the page and the user
+* JS| Fetch API: to get the data from API
 
  ## API 
- [link](https://www.thecocktaildb.com/api.php)
+ [https://www.thecocktaildb.com/api.php](https://www.thecocktaildb.com/api.php)
  
 ## installing the project locally:
 * On your desktop open gitBash
@@ -20,9 +20,14 @@ You can click on the photo and show the instruction.
 * code .
 * open index.html file ,then Right-click with the mouse ,then select open with live server.
 
+## Links:
 
+[GitHub](https://github.com/GSG-FC03/API-Team-11)
+
+[live link](https://gsg-fc03.github.io/API-Team-11/)
 
 ## Team Members
-1. Doaa Albreem.
-2. Mahmoud Aldabba.
-3. Abdelrahman Fayez.
+1.	[Doaa Albreem.]( https://github.com/Doaa-Abdulsalam)
+2.	[Mahmoud Aldabba.]( https://github.com/MahmoudJD95)
+3.	[Abdelrahman Fayez.]( https://github.com/Abdelrahman059)
+
